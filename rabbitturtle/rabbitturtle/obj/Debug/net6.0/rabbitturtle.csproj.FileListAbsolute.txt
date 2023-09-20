@@ -1,0 +1,15 @@
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\bin\Debug\net6.0\rabbitturtle.exe
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\bin\Debug\net6.0\rabbitturtle.deps.json
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\bin\Debug\net6.0\rabbitturtle.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\bin\Debug\net6.0\rabbitturtle.dll
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\bin\Debug\net6.0\rabbitturtle.pdb
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.dll
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\refint\rabbitturtle.dll
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.pdb
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\rabbitturtle.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\rabbitturtle\rabbitturtle\obj\Debug\net6.0\ref\rabbitturtle.dll
